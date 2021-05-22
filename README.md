@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Goomba Halliday of @Sinfulsymphonies
+- 👀 I’m interested in Computer Programing and Softwere Development
+- 🌱 I’m currently learning Python in Pycharm
+- 💞️ I’m looking to collaborate on (Nothing yet)
+- 📫 How to reach me sospleasesendthebritish@gmail.com
